@@ -13,7 +13,7 @@ sqlite> .q
 
 Her er vi sensorer avhengig av å få levert en tom database, evt. en beskrivelse av hva databasefilen heter i dokumentet.
 
-For kjøring av Python for innsetting av allerede solgte seter:
+For kjøring av Python forf innsetting av allerede solgte seter:
 sveinbra@mersey:~/fag/tdt4145/2024/prosjekt$ python3 scan-seats-hovedscenen.py hovedscenen.txt
 sveinbra@mersey:~/fag/tdt4145/2024/prosjekt$ python3 scan-seats-gamle-scene.py gamle-scene.txt
 
