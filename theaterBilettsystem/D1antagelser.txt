@@ -1,0 +1,3 @@
+Antar at en kunde bare kan ha en bilett
+
+Antar at en bilett må ha en kunde for å eksistere.
