@@ -1,3 +1,13 @@
 Antar at en kunde bare kan ha en bilett
 
 Antar at en bilett må ha en kunde for å eksistere.
+
+Anntar at en forestilling bare kan inneholde 1 theaterstykke og at alle forestilinger inneholder ett theaterstykke.
+
+Anntar at en bilett bare finnes hvis den har en eier.
+
+Anntar at en bilett bare kan høre til en forestilling
+
+Anttar at en forestilling kan ha null personer som har bilett dermed null bilett relasjoner
+
+Anntar at minst en person må være medvirkende for at en teaterforestilliung skal kunne foregå
