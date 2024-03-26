@@ -4,13 +4,13 @@ leveransene. Dere velger selv om dere vil skrive på norsk eller engelsk, men ik
 Innlevering, del 1: ER-modell og relasjonsdatabaseskjema
 DB1: Frist 8. mars 23:59 (11:59 pm) på Blackboard.
 
-<!-- a) En ER-modell som viser deres fullstendige datamodell. Dere står fritt til å bruke alle ER- og EER-
+a) En ER-modell som viser deres fullstendige datamodell. Dere står fritt til å bruke alle ER- og EER-
 konsepter som er gjennomgått i emnet. Dokumenter de forutsetningene dere har gjort og
 eventuelle restriksjonene som ikke (kan) uttrykkes gjennom ER-modellen.
 
 b) ER-modellen oversatt til relasjonsdatabaseskjema (tabeller). Spesifiser nøkler og fremmednøkler
 for hver tabell. For hver tabell skal du forklare hvorfor tabellen er på fjerde normalform,
-eventuelt forklar hvorfor du velger å ha den på en lavere normalform (du må forklare hvilken). -->
+eventuelt forklar hvorfor du velger å ha den på en lavere normalform (du må forklare hvilken).
 
 c) Et SQL-script som konstruerer databasen med tabellene. Husk å spesifiser primær- og
 fremmednøkler, samt andre nødvendige restriksjoner. Dokumenter restriksjoner som ikke
@@ -18,7 +18,7 @@ uttrykkes i relasjonsdatabaseskjemaet og derfor må håndteres i applikasjonspro
 
 Lever besvarelsen som PDF-fil. SQL-scriptet skal legges ved som en .sql-fil (tekstfil). Dokumentet skal
 være oversiktlig og konsist, og figurene skal være enkle å forstå. Husk å ta med navn på alle
-gruppemedlemmene og lever på BlackBoard.
+gruppemedlemmene og lever på BlackBoard. 
 
 
 Innlevering, del 2: Realisert databasesystem
